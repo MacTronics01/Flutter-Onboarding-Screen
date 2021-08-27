@@ -1,0 +1,6 @@
+package com.mac_onboarding_screen
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
